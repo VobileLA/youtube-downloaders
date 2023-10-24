@@ -1,0 +1,4 @@
+.env
+downloaded_videos/
+lib/
+node_modules/
